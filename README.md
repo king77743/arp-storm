@@ -26,8 +26,6 @@
    ````bash
    git clone https://github.com/king77743/arp-storm
    cd arp-storm
-2. Зависимости:
-
- Убудитесь, что установлена библиотека Scapy:
+2. Убудитесь, что установлена библиотека Scapy:
    ```bash
    pip install scapy
