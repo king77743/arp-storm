@@ -23,10 +23,10 @@
 ## ⚙️ Установка и использование
 
 1. Клонирование:
-   `bash
+   ````bash
    git clone https://github.com/king77743/arp-storm
    cd arp-storm
 2. Зависимости:
    Убудитесь, что установлена библиотека Scapy:
-   `bash
+   ```bash
    pip install scapy
